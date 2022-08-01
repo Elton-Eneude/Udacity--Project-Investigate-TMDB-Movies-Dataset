@@ -2,24 +2,24 @@
 
 ## Project Overview
 In this project, we have to analyze a dataset and then communicate our findings about it.
-We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+We will use the Python libraries NumPy, pandas, and Matplotlib to make the analysis easier.
 
 What do I need to install?
-You will need an installation of Python, plus the following libraries:
+I installed Python, using the following libraries:
 * pandas
 * NumPy
 * Matplotlib
 * csv
 
-It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+I used  Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 
 ### Why this Project?
 In this project, we have to go through the data analysis process and see how everything fits together.
-I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
+I have also used the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
 
 ### What I have learn?
-After completing the project, I have learned following :
+After completing the project, I have learned the following :
 
 * Know all the steps involved in a typical data analysis process
 * Be comfortable posing questions that can be answered with a given dataset and then answering those questions
